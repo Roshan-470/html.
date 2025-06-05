@@ -18,7 +18,8 @@ You can view the site by opening the `index.html` file in any modern web browser
 
 ---
 # screenshot
-![Alt text]()
+![Screenshot](./images/)
+
 
 
 ---
